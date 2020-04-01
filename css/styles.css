@@ -1,0 +1,194 @@
+/*https://colorhunt.co/palette/121977*/
+body{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    margin:0;
+    background-color: #f5eee6;
+}
+h1{
+    font-size: 160px;
+    letter-spacing: 3px;
+    color: #c86b85;
+    line-height:2;
+    margin:0;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+h2{
+    color: #c86b85;
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 20px auto 40px auto;
+
+    
+}
+#hello{
+    margin-bottom:50px;
+}
+h3{
+    color: #c86b85;
+}
+#about{
+    width:50%;
+    margin: auto;
+    font-size:20px;
+    padding-top:80px;
+}
+
+.top{
+    background-color: #f3d7ca;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom:2px;
+    margin-bottom: 60px;
+}
+
+#cloud2{
+    position: absolute;
+    bottom:300px;
+    left: 580px;
+    
+}
+
+#cloud1{
+    position: absolute;
+    top: 50px;
+    right:580px;
+}
+
+a{
+    color: #c86b85;
+}
+hr{
+    border-style: dotted;
+    width: 5%;
+    border-width: 10px;
+    border-bottom: none;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-color: #f3d7ca;
+}
+.Profile{
+    position: relative;
+}
+#intro{
+    width: 25%;
+    margin: 10px auto 0px auto;
+}
+#prof{
+    width: 12%;
+    height: 8%;
+}
+.skill-row{
+    position: relative;
+    width:50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+    height: 300px;
+}
+p{
+    padding-top:0;
+    margin:0;
+}
+#cello{
+    float: left;
+    padding-right:20px;
+    width:30%;
+}
+#comp{
+    float: right;
+    height:100%;
+    width: 30%;
+    margin-left: 20px;
+}
+#sb{
+    float: left;
+    width:45%;
+    height:240px;
+    margin-right: 20px;   
+}
+
+.univ{
+    text-align:left;
+    margin: 10px auto 10px auto;
+    display:inline-block;
+}
+table{
+    margin: 10px auto 60px auto;
+    display:inline-block;
+
+}
+thead{
+    text-decoration: underline;
+}
+td{
+    padding-left:30px;
+    padding-top:20px;
+}
+
+.btn {
+    margin-top:50px;
+    margin-bottom: 30px;
+	-moz-box-shadow:   0px  ;
+	-webkit-box-shadow:   0px  ;
+	box-shadow:   0px  ;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #c86b85), color-stop(1, #e6a4b5) );
+	background:-moz-linear-gradient( center top, #c86b85 5%, #e6a4b5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c86b85', endColorstr='#e6a4b5');
+	background-color:#c86b85;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:57px;
+	line-height:57px;
+width:161px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #e6a4b5;
+}.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e6a4b5), color-stop(1, #c86b85) );
+	background:-moz-linear-gradient( center top, #e6a4b5 5%, #c86b85 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e6a4b5', endColorstr='#c86b85');
+	background-color:#e6a4b5;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.link{
+    display:inline-block;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.link:hover{
+    color: #e6a4b5;
+}
+.bottom{
+    position: relative;
+    background-color: #f3d7ca;
+    margin-top:10px;
+    height:100px;
+    padding-top:10px;
+}
+
+#copyright{
+    padding:10px;
+    padding-top:20px;
+    font-size:.8rem;
+}
